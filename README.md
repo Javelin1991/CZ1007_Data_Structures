@@ -14,7 +14,7 @@ Implementation of code for a given set of data structure related questions. Task
 
 ## Knowledge Accquired includes: 
 
-1. Basic Constructs in CC program structure, Syntax and semantics
+1. Basic Constructs in C program structure, Syntax and semantics
 
 2. Built-in Data Structures
 
