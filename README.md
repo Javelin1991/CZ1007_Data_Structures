@@ -1,6 +1,6 @@
 # CZ1007 : Data Structure
 
-## Brief Description
+## Learning Outcome
 After completing the course, I have gained excellent understanding of **C syntax** and various types of **data structures** and their **pros and cons**.
 
 ## Coursework Assignment
